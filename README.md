@@ -1,1 +1,1 @@
-﻿# tailwind_bootcamp from beginner to advanced
+﻿# tailwind_css from beginner to beyond
